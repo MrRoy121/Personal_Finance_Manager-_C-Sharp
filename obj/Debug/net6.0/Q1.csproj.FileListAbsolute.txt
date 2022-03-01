@@ -1,0 +1,15 @@
+/home/mind/app/PERSONAL FINANCE MANAGER/obj/Debug/net6.0/PERSONAL FINANCE MANAGER.csproj.AssemblyReference.cache
+/home/mind/app/PERSONAL FINANCE MANAGER/obj/Debug/net6.0/PERSONAL FINANCE MANAGER.GeneratedMSBuildEditorConfig.editorconfig
+/home/mind/app/PERSONAL FINANCE MANAGER/obj/Debug/net6.0/PERSONAL FINANCE MANAGER.AssemblyInfoInputs.cache
+/home/mind/app/PERSONAL FINANCE MANAGER/obj/Debug/net6.0/PERSONAL FINANCE MANAGER.AssemblyInfo.cs
+/home/mind/app/PERSONAL FINANCE MANAGER/obj/Debug/net6.0/PERSONAL FINANCE MANAGER.csproj.CoreCompileInputs.cache
+/home/mind/app/PERSONAL FINANCE MANAGER/bin/Debug/net6.0/PERSONAL FINANCE MANAGER
+/home/mind/app/PERSONAL FINANCE MANAGER/bin/Debug/net6.0/PERSONAL FINANCE MANAGER.deps.json
+/home/mind/app/PERSONAL FINANCE MANAGER/bin/Debug/net6.0/PERSONAL FINANCE MANAGER.runtimeconfig.json
+/home/mind/app/PERSONAL FINANCE MANAGER/bin/Debug/net6.0/PERSONAL FINANCE MANAGER.dll
+/home/mind/app/PERSONAL FINANCE MANAGER/bin/Debug/net6.0/PERSONAL FINANCE MANAGER.pdb
+/home/mind/app/PERSONAL FINANCE MANAGER/obj/Debug/net6.0/PERSONAL FINANCE MANAGER.dll
+/home/mind/app/PERSONAL FINANCE MANAGER/obj/Debug/net6.0/refint/PERSONAL FINANCE MANAGER.dll
+/home/mind/app/PERSONAL FINANCE MANAGER/obj/Debug/net6.0/PERSONAL FINANCE MANAGER.pdb
+/home/mind/app/PERSONAL FINANCE MANAGER/obj/Debug/net6.0/PERSONAL FINANCE MANAGER.genruntimeconfig.cache
+/home/mind/app/PERSONAL FINANCE MANAGER/obj/Debug/net6.0/ref/PERSONAL FINANCE MANAGER.dll
